@@ -1,0 +1,27 @@
+Name: SensityUICore
+api: 3.0.0
+main: CV71\Anni\Annihilation;
+Author: CV71
+Version: 1.8.0
+
+Commands:
+         Anni help:
+         description:"shows a list of commands"
+         Anni setupmode:
+         description:"SetUp mode For Anni"
+         Green:
+         description:"select Green Anni Team"
+         Yellow
+         description:"select Yellow Anni Team"
+         Blue:
+         description:"select Blue Anni Team"
+         Red:
+         description:"select Red Anni Team"
+         class:
+         description:"select your kit"
+
+
+Permissions:
+           Anni setupmode:
+            Default:OP
+        

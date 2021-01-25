@@ -1,6 +1,6 @@
 Name: SensityPVPCore
 api: 3.0.0
-main: CV71\Anni\Annihilation;
+main: CV71\Anni\Annihilation
 Author: CV71
 Version: 1.8.0
 
@@ -21,7 +21,3 @@ Commands:
          description:"select your kit"
 
 
-permissions:
-           setup:
-            Default:OP
-        
